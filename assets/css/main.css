@@ -73,8 +73,9 @@ input, select, textarea {
 }
 
 
-.icons span{
-	
+.iconify {
+	height: 500px;
+	width: 500px;
 }
 
 /* Basic */
